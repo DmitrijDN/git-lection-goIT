@@ -1,1 +1,1 @@
-# git-lection-goIT
+# This is simple repository to show basics with git
